@@ -13,3 +13,10 @@ Run `java -jar target/WHATER.jar`
 
 Go to your browser and open http://localhost:8080/hello/world
 
+## How to install the RabbitMQ Server
+
+Run `brew install rabbitmq` afterwards launch the server with `rabbitmq-server`
+
+### How to access the RabbitMQ UI
+
+Open http://localhost:15672/ in your browser. Username is `guest` password `guest`.
